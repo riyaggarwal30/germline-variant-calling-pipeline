@@ -18,11 +18,11 @@ Update checkboxes as you complete each task.
 - [ ] Install GATK4
 - [ ] Install SRA Toolkit
 - [ ] Verify all tools with `--version`
-- [ ] Create GitHub repo
-- [ ] Clone repo locally
-- [ ] Create folder structure (`data/`, `scripts/`, `results/`, `notebooks/`, `docs/`)
-- [ ] Configure `.gitignore`
-- [ ] Export `environment.yml`
+- [x] Create GitHub repo
+- [x] Clone repo locally
+- [x] Create folder structure (`data/`, `scripts/`, `results/`, `notebooks/`, `docs/`)
+- [x] Configure `.gitignore`
+- [x] Export `environment.yml`
 - [ ] Write Day 1 README
 - [ ] Download NA12878 reads (ERR194147)
 - [ ] Download chr20 reference (GRCh38)
