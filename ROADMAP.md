@@ -116,6 +116,7 @@ Update checkboxes as you complete each task.
 | Week 6 | Notebook & Final Polish | ⬜ Not started |
 
 **Legend:** ✅ Done · 🔄 In progress · ⬜ Not started
+> Full weekly roadmap and task checklist: [ROADMAP.md](ROADMAP.md)
 ```
 
 ---
